@@ -1,5 +1,4 @@
 # README
 
-hello git
+暂时存放一些练习
 
-第一次练习git bash
